@@ -1,4 +1,4 @@
-public class _01_58_II_×óÐý×ª×Ö·û´® {
+public class _01_58_II_左旋转字符串 {
 
     public static void main(String[] args) {
         int n = 2;
