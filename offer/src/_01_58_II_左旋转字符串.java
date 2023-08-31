@@ -13,7 +13,7 @@ public class _01_58_II_×óÐý×ª×Ö·û´® {
             else head.append(s.charAt(i));
         }
         head.append(tail.toString());
-        System.out.println(head.toString());
-
+        String ans = head.toString();
+        System.out.println(ans);
     }
 }
