@@ -1,4 +1,4 @@
-public class _01_58_II_×óĞı×ª×Ö·û´® {
+public class _01_58_II_Ã—Ã³ÃÃ½Ã—ÂªÃ—Ã–Â·Ã»Â´Â® {
 
     public static void main(String[] args) {
         int n = 2;
@@ -16,5 +16,6 @@ public class _01_58_II_×óĞı×ª×Ö·û´® {
         System.out.println(ans);
         System.out.println(1);  // master
         System.out.println(2);  // somin
+        System.out.println(3);  // github
     }
 }
