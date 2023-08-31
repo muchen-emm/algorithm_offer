@@ -17,5 +17,6 @@ public class _01_58_II_左旋转字符串 {
         System.out.println(1);  // master
         System.out.println(2);  // somin
         System.out.println(3);  // github
+        System.out.println(4);  // master
     }
 }
