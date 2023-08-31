@@ -14,6 +14,7 @@ public class _01_58_II_×óÐý×ª×Ö·û´® {
         head.append(tail.toString());
         String ans = head.toString();
         System.out.println(ans);
-        System.out.println(1);
+        System.out.println(1);  // master
+        System.out.println(2);  // somin
     }
 }
